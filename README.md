@@ -5,6 +5,8 @@ DIO 2 = leftEncoder B (Rev Robotics Through Bore Encoder Yellow Dupont)<br/>
 DIO 5 = rightEncoder A (Rev Robotics Through Bore Encoder Blue Dupont)<br/>
 DIO 6 = rightEncoder B (Rev Robotics Through Bore Encoder Yellow Dupont)<br/>
 (Signal Wires oriented towarad the inside of the roboRIO, GND on the outside)
+![IMG_3114](https://user-images.githubusercontent.com/79543807/111050796-b83eb480-841c-11eb-992e-b33018fd119a.jpg)
+
 
 ### OUTPUT snippet (upon enabling Autonomous):
 ...<br/>
